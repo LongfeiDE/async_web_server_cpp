@@ -1,6 +1,5 @@
 #include "async_web_server_cpp/http_reply.hpp"
 
-#define BOOST_BIND_GLOBAL_PLACEHOLDERS
 #include <boost/bind.hpp>
 #include <boost/make_shared.hpp>
 
